@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T07:12:38.271Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="lERQFiYLI1j13_7IR0vR" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T07:16:05.984Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="wac0FGnY2ilSXI_piugg" version="14.9.0" type="github">
   <diagram id="9_1sO07OhJ9FRKc1vzgv" name="Page-1">
     <mxGraphModel dx="2488" dy="449" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2977,12 +2977,6 @@
             <mxPoint x="175.4388836949055" y="151.49339032605337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lwopt8q-5survKYY_SCn-357" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeWidth=2;strokeOpacity=50;" edge="1" parent="lwopt8q-5survKYY_SCn-367" target="lwopt8q-5survKYY_SCn-359">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-202.35772357723584" y="-10963.988505747127" as="targetPoint" />
-            <mxPoint y="102.4518883415428" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lwopt8q-5survKYY_SCn-359" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="lwopt8q-5survKYY_SCn-367">
           <mxGeometry x="6.99845528455284" y="93.72413793103449" width="30.894308943089428" height="17.356321839080458" as="geometry" />
         </mxCell>
@@ -3028,6 +3022,27 @@
         </mxCell>
         <mxCell id="lwopt8q-5survKYY_SCn-371" value="&lt;font size=&quot;1&quot; color=&quot;#ea6b66&quot;&gt;&lt;b&gt;Task2 chooses S&lt;sub&gt;d2&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="637" y="6496" width="105" height="34.71" as="geometry" />
+        </mxCell>
+        <mxCell id="lwopt8q-5survKYY_SCn-376" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#7EA6E0;strokeOpacity=50;" edge="1" parent="1" source="lwopt8q-5survKYY_SCn-373" target="lwopt8q-5survKYY_SCn-359">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="496" y="6450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lwopt8q-5survKYY_SCn-373" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;Task1:&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="476" y="6402" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lwopt8q-5survKYY_SCn-375" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#EA6B66;strokeOpacity=50;" edge="1" parent="1" source="lwopt8q-5survKYY_SCn-374" target="lwopt8q-5survKYY_SCn-359">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="496" y="6450" />
+              <mxPoint x="518" y="6450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lwopt8q-5survKYY_SCn-374" value="&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;Task2:&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="476" y="6473" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
