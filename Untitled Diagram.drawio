@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T03:53:06.292Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="_yiTcNoBnYMFDzkxKzza" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T06:13:02.253Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="wzmayHb3L3IToTR34909" version="14.9.0" type="github">
   <diagram id="9_1sO07OhJ9FRKc1vzgv" name="Page-1">
-    <mxGraphModel dx="2849" dy="654" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2651" dy="541" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2823,17 +2823,14 @@
         <mxCell id="lwopt8q-5survKYY_SCn-130" value="Task 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="216" y="6518" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lwopt8q-5survKYY_SCn-132" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/simple-ui-games/512/10-128.png;fillColor=#000000;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="447" y="6183" width="33" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="lwopt8q-5survKYY_SCn-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="lwopt8q-5survKYY_SCn-135" target="lwopt8q-5survKYY_SCn-69">
+        <mxCell id="lwopt8q-5survKYY_SCn-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="lwopt8q-5survKYY_SCn-135" target="lwopt8q-5survKYY_SCn-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="617" y="6147" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lwopt8q-5survKYY_SCn-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="lwopt8q-5survKYY_SCn-135" target="lwopt8q-5survKYY_SCn-69">
+        <mxCell id="lwopt8q-5survKYY_SCn-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="lwopt8q-5survKYY_SCn-135" target="lwopt8q-5survKYY_SCn-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="617" y="6203" />
@@ -2843,22 +2840,22 @@
         <mxCell id="lwopt8q-5survKYY_SCn-135" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="603" y="6169" width="27" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="lwopt8q-5survKYY_SCn-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="lwopt8q-5survKYY_SCn-138" target="lwopt8q-5survKYY_SCn-69">
+        <mxCell id="lwopt8q-5survKYY_SCn-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="lwopt8q-5survKYY_SCn-138" target="lwopt8q-5survKYY_SCn-66">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="619" y="6203" />
+              <mxPoint x="617" y="6260" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lwopt8q-5survKYY_SCn-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="lwopt8q-5survKYY_SCn-138" target="lwopt8q-5survKYY_SCn-66">
+        <mxCell id="lwopt8q-5survKYY_SCn-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="lwopt8q-5survKYY_SCn-138" target="lwopt8q-5survKYY_SCn-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="619" y="6260" />
+              <mxPoint x="617" y="6203" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lwopt8q-5survKYY_SCn-138" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="605" y="6220" width="27" height="16" as="geometry" />
+          <mxGeometry x="603" y="6220" width="27" height="16" as="geometry" />
         </mxCell>
         <mxCell id="lwopt8q-5survKYY_SCn-141" value="S&lt;sub&gt;2&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fillOpacity=50;" vertex="1" parent="1">
           <mxGeometry x="677" y="6395" width="120" height="80" as="geometry" />
@@ -2893,12 +2890,12 @@
         <mxCell id="lwopt8q-5survKYY_SCn-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="lwopt8q-5survKYY_SCn-149" target="lwopt8q-5survKYY_SCn-153">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="558" y="6405" />
+              <mxPoint x="557" y="6408" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lwopt8q-5survKYY_SCn-149" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="544" y="6423" width="27" height="16" as="geometry" />
+          <mxGeometry x="544" y="6428" width="27" height="16" as="geometry" />
         </mxCell>
         <mxCell id="lwopt8q-5survKYY_SCn-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="lwopt8q-5survKYY_SCn-153" target="lwopt8q-5survKYY_SCn-142">
           <mxGeometry relative="1" as="geometry">
@@ -2916,7 +2913,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lwopt8q-5survKYY_SCn-153" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="583" y="6400" width="27" height="16" as="geometry" />
+          <mxGeometry x="582" y="6398" width="27" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
